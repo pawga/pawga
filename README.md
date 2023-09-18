@@ -1,5 +1,5 @@
 ### About me:
-* Extensive experience in designing information systems as a Software Systems Architect. Architectural patterns MSA (microservice), SOA, EDA (event drive architecture), "Monolith", etc. Breaking "hard" links between modules and subsystems, and how this all affects a quality product I know in "practice". I know how to make the "correct" integration with external systems;
+* Extensive experience in designing information systems as a Software and Solutions Architect. Architectural patterns MSA (microservice), SOA, EDA (event drive architecture), "Monolith", etc. Breaking "hard" links between modules and subsystems, and how this all affects a quality product I know in "practice". I know how to make the "correct" integration with external systems;
 * JAVA-Enterprise ECM and BPM systems expert. Currently, all applications that are developed with my participation and guidance are developed on Java Spring Boot, delivered in the form of docker images
 * Management of software development projects;
 * Product creation management, Product Manager
