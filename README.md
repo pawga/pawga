@@ -42,7 +42,7 @@ Stack of technologies:
 3) [Pokupator](https://apps.apple.com/us/app/pokupator/id1593895021) , Flutter. Video of an example of the program: https://youtu.be/5zdXM9uQIqE
 
 ### Video of the work of other programs (different prototypes without publication in the Google and Apple stores):
-1) An example of the operation of the program "Radio of one station", created on the basis of the developed libraries: https://youtu.be/zGGMTsTkRDE; “Listen to FM” on iPhone is the most used program on my iPhone. I listen to news and music every day.
+1) An example of the operation of the program "Radio of one station", created on the basis of the developed libraries: https://youtu.be/zGGMTsTkRDE;
 2) An example of a program that uses Nearby Connections technologies. Technology description: The Nearby platform. An example of the program: https://youtu.be/qCxOJvoi_Hs;
 3) An example of working with external hardware sensors via the Bluetooth protocol (BLE). Technology description: Nordic Thingy:52. An example of the program: https://youtu.be/45JJhplQ-Xs;
 
@@ -50,7 +50,7 @@ Some of my projects are available for public viewing: [https://github.com/pawga]
 
 1) Extensive experience in the development of systems of different classes. Complete understanding of the technology stack.
 2) Extensive experience in the design of information systems as an Architect of software systems.
-3) JAVA-Enterprise systems expert. Currently, all applications that are developed with my participation and guidance are developed on Java Spring Boot, delivered in the form of docker images.
+3) JAVA-Enterprise systems expert.
 4) Product and project management, including in the role of a product manager (not only development, but also promotion) .
 
 Combination of qualities and experience: "Architect <-> Developer <-> Project Manager" gives you the opportunity to see the possible options to the fullest when choosing the best way to achieve the goal "Creating a quality product-solution", and after choosing the path and successfully achieve the intended goal. My experience gives me an understanding of "how to go" to get "where you need to".
