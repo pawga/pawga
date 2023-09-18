@@ -23,17 +23,18 @@ In the development of mobile applications, I used the following stack of technol
   Applied patterns:
   -Vipers
 - MVVM+Coordinator
-### back end
-   JavaEE, SpringBoot, "container technologies" based on docker. Automation of business processes on Camunda.
+### "BackEnd"
+   SpringBoot, Kotlin, Coroutine, "container technologies". Automation of business processes on Camunda.
 ### Flutter 
    - Dart
    - RxDart
 
 ### My Apps on Google Play:
-1) [Radio online Listen to FM](https://play.google.com/store/apps/details?id=com.pawga.radio). Video of an example of the program: https://youtu.be/QD8PtX0_jqc;
+1) [Radio online Listen to FM](https://play.google.com/store/apps/details?id=com.pawga.radio). Video of an example of the program: https://youtu.be/QD8PtX0_jqc; My best program. Works on Android Auto. Has alarm clock functionality. Can record several audio streams simultaneously in the background (none of the similar programs can do this).
 2) [Radio for parents](https://play.google.com/store/apps/details?id=com.pawga.radioforchildren). Video of an example of the program: https://youtu.be/g2Dg7_VmOuE;
 3) [Mathematics simulator](https://play.google.com/store/apps/details?id=com.pawga.educationmathematics). Video of an example of the program: https://vimeo.com/176915510; (Flutter)
 4) [Pokupator](https://play.google.com/store/apps/details?id=com.pawga.pokupator) , Flutter). Video of an example of the program: https://youtu.be/5zdXM9uQIqE
+“Listen to FM” was recently removed by Google from the official store due to me disabling all paid functions :) I wanted to give all the functions of the program without payment to all users of the program. Google didn't appreciate my impulse :). Unfortunately, there is no time to restore the program yet.
 
 ### My Apps in the Apple App Store:
 1) [Radio online Listen to FM](https://apps.apple.com/app/id1372435744)
@@ -41,7 +42,7 @@ In the development of mobile applications, I used the following stack of technol
 3) [Pokupator](https://apps.apple.com/us/app/pokupator/id1593895021) , Flutter. Video of an example of the program: https://youtu.be/5zdXM9uQIqE
 
 ### Video of the work of other programs (different prototypes without publication in the Google and Apple stores):
-1) An example of the operation of the program "Radio of one station", created on the basis of the developed libraries: https://youtu.be/zGGMTsTkRDE;
+1) An example of the operation of the program "Radio of one station", created on the basis of the developed libraries: https://youtu.be/zGGMTsTkRDE; “Listen to FM” on iPhone is the most used program on my iPhone. I listen to news and music every day.
 2) An example of a program that uses Nearby Connections technologies. Technology description: The Nearby platform. An example of the program: https://youtu.be/qCxOJvoi_Hs;
 3) An example of working with external hardware sensors via the Bluetooth protocol (BLE). Technology description: Nordic Thingy:52. An example of the program: https://youtu.be/45JJhplQ-Xs;
 
