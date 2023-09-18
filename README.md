@@ -8,29 +8,29 @@
 
 Stack of technologies:
 ### Android:
-- Kotlin (I no longer use Java)
-- Coroutine (flow, etc.)
+- Kotlin (I no longer use Java);
+- Coroutine (flow, etc.);
 - Architecture Components ( Room, ViewModel, LiveData, Paging Library, Android Data Binding, Navigation Component) I sincerely believe that following the recommendations of the "vendor" is the key to success (I have repeatedly convinced myself of this with the support of my "multimedia" applications). Kotlin + Coroutine made it possible to abandon RxJava. In Android, the advent of Navigation allowed us to beautifully solve the technical problem of routing between screens (critical for Viper). The use of "ribs", "epoxy", "conductor", etc. instead of "Architecture Components" on Android is considered a gross architectural mistake.
 ### iOS
-- Swift
-- RxSwift
+- Swift;
+- RxSwift;
   Architectural "techniques":
-- Protocol-oriented approach
-- "Functional Swift"
+- Protocol-oriented approach;
+- "Functional Swift";
   Applied patterns:
-  -Vipers
-- MVVM+Coordinator
+-Vipers;
+- MVVM+Coordinator;
 ### "BackEnd"
-   SpringBoot, Kotlin, Coroutine, "container technologies". Automation of business processes.
+   SpringBoot, Kotlin, Coroutine, "container technologies". Automation of business processes;
 ### Flutter 
-   - Dart
-   - RxDart
+   - Dart;
+   - RxDart;
 
 ### My Apps on Google Play:
-1) [Radio online Listen to FM](https://play.google.com/store/apps/details?id=com.pawga.radio). Video of an example of the program: https://youtu.be/QD8PtX0_jqc; My best program. Works on Android Auto. Has alarm clock functionality. Can record several audio streams simultaneously in the background (none of the similar programs can do this).
+1) [Radio online Listen to FM](https://play.google.com/store/apps/details?id=com.pawga.radio). Video of an example of the program: https://youtu.be/QD8PtX0_jqc; My best program. Works on Android Auto. Has alarm clock functionality. Can record several audio streams simultaneously in the background (none of the similar programs can do this);
 2) [Radio for parents](https://play.google.com/store/apps/details?id=com.pawga.radioforchildren). Video of an example of the program: https://youtu.be/g2Dg7_VmOuE;
-3) [Mathematics simulator](https://play.google.com/store/apps/details?id=com.pawga.educationmathematics). Video of an example of the program: https://vimeo.com/176915510; (Flutter)
-4) [Pokupator](https://play.google.com/store/apps/details?id=com.pawga.pokupator) , Flutter). Video of an example of the program: https://youtu.be/5zdXM9uQIqE
+3) [Mathematics simulator](https://play.google.com/store/apps/details?id=com.pawga.educationmathematics). Video of an example of the program: https://vimeo.com/176915510; (Flutter);
+4) [Pokupator](https://play.google.com/store/apps/details?id=com.pawga.pokupator) , Flutter). Video of an example of the program: https://youtu.be/5zdXM9uQIqE ;
 “Listen to FM” was recently removed by Google from the official store due to me disabling all paid functions :) I wanted to give all the functions of the program without payment to all users of the program. Google didn't appreciate my impulse :). Unfortunately, there is no time to restore the program yet.
 
 ### My Apps in the Apple App Store:
@@ -45,10 +45,10 @@ Stack of technologies:
 
 Some of my projects are available for public viewing: [https://github.com/pawga](https://github.com/pawga).
 
-1) Extensive experience in the development of systems of different classes. Complete understanding of the technology stack.
+1) Extensive experience in the development of systems of different classes. Complete understanding of the technology stack;
 2) Extensive experience in the design of information systems as an Architect of software systems.
-3) JAVA-Enterprise systems expert.
-4) Product and project management, including in the role of a product manager (not only development, but also promotion) .
+3) JAVA-Enterprise systems expert;
+4) Product and project management, including in the role of a product manager (not only development, but also promotion);
 
 Combination of qualities and experience: "Architect <-> Developer <-> Project Manager" gives you the opportunity to see the possible options to the fullest when choosing the best way to achieve the goal "Creating a quality product-solution", and after choosing the path and successfully achieve the intended goal. My experience gives me an understanding of "how to go" to get "where you need to".
 
