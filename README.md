@@ -11,9 +11,6 @@ Stack of technologies:
 - Kotlin (I no longer use Java)
 - Coroutine (flow, etc.)
 - Architecture Components ( Room, ViewModel, LiveData, Paging Library, Android Data Binding, Navigation Component) I sincerely believe that following the recommendations of the "vendor" is the key to success (I have repeatedly convinced myself of this with the support of my "multimedia" applications). Kotlin + Coroutine made it possible to abandon RxJava. In Android, the advent of Navigation allowed us to beautifully solve the technical problem of routing between screens (critical for Viper). The use of "ribs", "epoxy", "conductor", etc. instead of "Architecture Components" on Android is considered a gross architectural mistake.
-  Architectural "techniques":
-- Interface-oriented approach
-- "Functional Kotlin"
 ### iOS
 - Swift
 - RxSwift
