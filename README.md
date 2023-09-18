@@ -37,7 +37,7 @@ In the development of mobile applications, I used the following stack of technol
 “Listen to FM” was recently removed by Google from the official store due to me disabling all paid functions :) I wanted to give all the functions of the program without payment to all users of the program. Google didn't appreciate my impulse :). Unfortunately, there is no time to restore the program yet.
 
 ### My Apps in the Apple App Store:
-1) [Radio online Listen to FM](https://apps.apple.com/app/id1372435744)
+1) [Radio online Listen to FM](https://apps.apple.com/app/id1372435744) “Listen to FM” on iPhone is the most used program on my iPhone. I listen to news and music every day.
 2) [Mathematics simulator](https://apps.apple.com/us/app/%D1%82%D1%80%D0%B5%D0%BD%D0%B0%D0%B6%D0%B5%D1%80-%D0%BF%D0%BE-%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B5/id1572259439), Flutter
 3) [Pokupator](https://apps.apple.com/us/app/pokupator/id1593895021) , Flutter. Video of an example of the program: https://youtu.be/5zdXM9uQIqE
 
