@@ -1,12 +1,12 @@
 ### About me:
-* Extensive experience in designing information systems as a Software and Solutions Architect. Architectural patterns MSA (microservice), SOA, EDA (event drive architecture), "Monolith", etc. Breaking "hard" links between modules and subsystems, and how this all affects a quality product I know in "practice". I know how to make the "correct" integration with external systems;
-* JAVA-Enterprise ECM and BPM systems expert. Currently, all applications that are developed with my participation and guidance are developed on Java Spring Boot, delivered in the form of docker images
+* Extensive experience in designing information systems as a Software and Solutions Architect;
+* ECM and BPM systems expert;
 * Management of software development projects;
 * Product creation management, Product Manager
   (development of a strategy for the development of the product line and its implementation);
 * Management of the "production" division (software development);
 
-In the development of mobile applications, I used the following stack of technologies:
+Stack of technologies:
 ### Android:
 - Kotlin (I no longer use Java)
 - Coroutine (flow, etc.)
@@ -24,7 +24,7 @@ In the development of mobile applications, I used the following stack of technol
   -Vipers
 - MVVM+Coordinator
 ### "BackEnd"
-   SpringBoot, Kotlin, Coroutine, "container technologies". Automation of business processes on Camunda.
+   SpringBoot, Kotlin, Coroutine, "container technologies". Automation of business processes.
 ### Flutter 
    - Dart
    - RxDart
