@@ -31,7 +31,6 @@ Stack of technologies:
 2) [Radio for parents](https://play.google.com/store/apps/details?id=com.pawga.radioforchildren). Video of an example of the program: https://youtu.be/g2Dg7_VmOuE;
 3) [Mathematics simulator](https://play.google.com/store/apps/details?id=com.pawga.educationmathematics). Video of an example of the program: https://vimeo.com/176915510; (Flutter);
 4) [Pokupator](https://play.google.com/store/apps/details?id=com.pawga.pokupator) , Flutter). Video of an example of the program: https://youtu.be/5zdXM9uQIqE ;
-“Listen to FM” was recently removed by Google from the official store due to me disabling all paid functions :) I wanted to give all the functions of the program without payment to all users of the program. Google didn't appreciate my impulse :). Unfortunately, there is no time to restore the program yet.
 
 ### My Apps in the Apple App Store:
 1) [Radio online Listen to FM](https://apps.apple.com/app/id1372435744) “Listen to FM” on iPhone is the most used program on my iPhone. I listen to news and music every day.
