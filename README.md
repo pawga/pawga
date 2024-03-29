@@ -1,6 +1,6 @@
 ### About me:
 * Software and Solutions Architect;
-* Development
+* Development;
 
 ### My Apps on Google Play:
 1) [Radio online Listen to FM](https://play.google.com/store/apps/details?id=com.pawga.radio). Video of an example of the program: https://youtu.be/QD8PtX0_jqc; My best program. Works on Android Auto. Has alarm clock functionality. Can record several audio streams simultaneously in the background (none of the similar programs can do this);
